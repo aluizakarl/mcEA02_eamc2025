@@ -8,7 +8,7 @@ Bem-vindo ao repositório do curso **"Modelagem Molecular Aplicada à Descoberta
 
 ## 📂 Conteúdo do Repositório  
 - **Slides:** Apresentações utilizadas nas aulas.  
-- **[Material de apoio](bit.ly/mcEA02)**  
+- **[Material de apoio](https://bit.ly/mcEA02)**  
 - **Estruturas para docking:** Arquivos com as estruturas moleculares usadas nos experimentos práticos demonstrados nas aulas.  
 
 ## 🧠 Sobre o Curso  
