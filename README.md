@@ -4,7 +4,7 @@ Bem-vindo ao repositório do curso **"Modelagem Molecular Aplicada à Descoberta
 
 ## 🔗 Aulas no YouTube  
 - **[Aula 1: Introdução à modelagem molecular e docking](https://www.youtube.com/watch?v=irnUqjCnyYc&t=2511s)**  
-- **[Aula 2: Docking molecular na prática](#)**  
+- **[Aula 2: Docking molecular na prática](https://www.youtube.com/live/1QkPRb5X6XA?si=gQyiNnSy5a3sNSPJ)**  
 
 ## 📂 Conteúdo do Repositório  
 - **Slides:** Apresentações utilizadas nas aulas.  
