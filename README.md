@@ -3,8 +3,8 @@
 Bem-vindo ao repositório do curso **"Modelagem Molecular Aplicada à Descoberta de Fármacos"**! Aqui você encontrará os materiais complementares utilizados durante as aulas, incluindo slides, materiais de apoio e estruturas moleculares para os experimentos de docking.  
 
 ## 🔗 Aulas no YouTube  
-- **[Aula 1: Introdução à modelagem molecular e docking](https://www.youtube.com/watch?v=irnUqjCnyYc&t=2511s)**  
-- **[Aula 2: Docking molecular na prática](https://www.youtube.com/live/1QkPRb5X6XA?si=gQyiNnSy5a3sNSPJ)**  
+- **[Aula 1: Introdução à modelagem molecular, identificação de alvos e obtenção de modelos](https://www.youtube.com/watch?v=irnUqjCnyYc&t=2511s)**  
+- **[Aula 2: Preparação de estruturas e Docking molecular](https://www.youtube.com/live/1QkPRb5X6XA?si=gQyiNnSy5a3sNSPJ)**  
 
 ## 📂 Conteúdo do Repositório  
 - **Slides:** Apresentações utilizadas nas aulas.  
