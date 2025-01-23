@@ -11,9 +11,9 @@ Bem-vindo ao repositório do curso **"Modelagem Molecular Aplicada à Descoberta
 - **[Material de apoio](https://bit.ly/mcEA02)**  
 - **Estruturas para docking:** Arquivos com as estruturas moleculares usadas nos experimentos práticos demonstrados nas aulas.  
 
+#: https://server.poissonboltzmann.org/pdb2pqr
 ## 📂 Resultados dos experimentos de docking:
-- **Redocking:** https://dockthor.lncc.br/v2/index.php?tab=DOCKING&page=RESULTS&jobId=1hxwRedocking_eamc2025_67919141878b2
-- **Triagem Virtual:** https://dockthor.lncc.br/v2/index.php?tab=DOCKING&page=RESULTS&jobId=1hxwVS_eamc2025_679191b286f81
+- **Redocking:** [https://dockthor.lncc.br/v2/index.php?tab=DOCKING&page=RESULTS&jobId=1hxwRedocking_eamc2025_67919141878b2
 
 ## 🧠 Sobre o Curso  
 Este curso é uma introdução à modelagem molecular, com foco na técnica de docking molecular aplicada à descoberta de fármacos. Ele é voltado para iniciantes e apresenta conceitos básicos, ferramentas utilizadas na área e exemplos práticos.   
