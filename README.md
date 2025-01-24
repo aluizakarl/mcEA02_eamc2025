@@ -9,7 +9,7 @@ Bem-vindo ao repositório do curso **"Modelagem Molecular Aplicada à Descoberta
 ## 📂 Conteúdo do Repositório  
 - **Slides:** Apresentações utilizadas nas aulas.  
 - **[Material de apoio](https://bit.ly/mcEA02)**
-- **[Tutorial de Docking e Triagem Virtual](https://abrasive-astronomy-141.notion.site/Modelagem-Molecular-Aplicada-Descoberta-de-F-rmacos-1854f34c0f7b8036b43acee940df546f)** [Em edição]
+- **[Tutorial de Docking e Triagem Virtual](https://abrasive-astronomy-141.notion.site/Modelagem-Molecular-Aplicada-Descoberta-de-F-rmacos-1854f34c0f7b8036b43acee940df546f)** [Em construção]
 - **Estruturas para docking:** Arquivos com as estruturas moleculares usadas nos experimentos práticos demonstrados nas aulas.  
 
 ## 🧠 Sobre o Curso  
